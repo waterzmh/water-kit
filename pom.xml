@@ -40,7 +40,7 @@
 		<dnsjava>2.1.8</dnsjava>
 		<emoji-java>4.0.0</emoji-java>
 		<!--spring-->
-		<springframework-version>4.2.6.RELEASE</springframework-version>
+		<springframework-version>4.3.19.RELEASE</springframework-version>
 		<!--邮件-->
 		<java-mail-version>1.6.1</java-mail-version>
 	</properties>
